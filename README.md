@@ -9,7 +9,7 @@
 <br>apt install git python2
 <br>git clone https://github.com/Kmb-id/tool-compiler
 <br>cd tool-compiler
-<br>chmod +x tool-compiler.sh
-<br>sh tool-compiler.sh
+<br>chmod +x compiler.sh
+<br>sh compiler.sh
 
 # Author : KMB.ID [L4.ERROR]
